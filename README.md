@@ -9,6 +9,7 @@ _Smooth dimming functionality for TRADFRI Dimmer and lights connected through De
 Download the `remote_control` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `hacs` module.
 
 ## App configuration
+NOTE: this is my very first appdaemon app, buggy and simple, just to test.
 
 ### Basic configuration:
 The behaviour is as follows:
