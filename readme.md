@@ -2,11 +2,11 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-_Smooth dimming functionality (and more) for TRADFRI Dimmer and lights connected through DeCONZ_
+_Smooth dimming functionality for TRADFRI Dimmer and lights connected through DeCONZ_
 
 ## Installation
 
-Download the `XXX` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `hacs` module.
+Download the `remote_control` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `hacs` module.
 
 ## App configuration
 
