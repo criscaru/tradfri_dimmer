@@ -2,11 +2,11 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-_Smooth dimming functionality (and more) for Hue Dimmer Switches and lights connected through DeCONZ_
+_Smooth dimming functionality (and more) for TRADFRI Dimmer and lights connected through DeCONZ_
 
 ## Installation
 
-Download the `hue_dimmer_switch_deconz` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `hacs` module.
+Download the `XXX` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `hacs` module.
 
 ## App configuration
 
